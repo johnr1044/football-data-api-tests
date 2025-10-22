@@ -21,6 +21,7 @@ Matches         /v4/matches    Validates returned match data strucutre and filte
 - Dynamic data validation and schema assertions
 - Use of environment variables (.env) for secure API key management
 - Modular and organized test design with reusable utilities
+- *** must generate your own api key to successfully run this test. creat an .env file to insert your API key ***
 
 
 ### Tech Stack
